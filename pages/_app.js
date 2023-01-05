@@ -1,5 +1,6 @@
 import "../styles/index.scss";
 import "../styles/nav.scss";
+import "../styles/home.scss";
 import "remixicon/fonts/remixicon.css";
 
 import { Poppins } from "@next/font/google";

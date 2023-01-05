@@ -3,8 +3,13 @@ html, body {
 }
 
 :root {
+    --font: "Poppins", sans-serif;
     --background: white;
     --accent: #31b3b1;
     --sub-text: #7b7b7b;
+}
+
+* {
+    font-family: var(--font);
 }
 
