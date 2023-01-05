@@ -10,6 +10,9 @@ section.hero {
     display: flex;
     align-items: center;
     justify-content: center;
+    background-image: url("../res/heroBG.png");
+    background-position: center;
+    background-size: cover;
 
     .wrapper {
         max-width: 900px;
